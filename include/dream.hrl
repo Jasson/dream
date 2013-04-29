@@ -1,0 +1,2 @@
+-record(state,{socket="", tp="", user_name="", connect=""}).
+-define(DEBUG(Inputs, Args), io:format(Inputs, Args)).

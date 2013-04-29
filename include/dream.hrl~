@@ -1,0 +1,1 @@
+-define(DEBUG(Inputs, Args), io:format(Inputs, Args)).
